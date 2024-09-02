@@ -1,6 +1,8 @@
 name: My1
 
-on: workflow_dispatch
+on:   
+  push:
+    branches: [work]
 
 jobs:
   ci:
