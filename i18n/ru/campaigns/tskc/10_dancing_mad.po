@@ -124,7 +124,7 @@ msgid "Jardines de la Tropical"
 msgstr "Тропические сады"
 
 msgid "Gran Teatro de La Habana"
-msgstr "Большой театр Гаваны"
+msgstr "Большой театр Гаваны"
 
 msgid "Find both copies of the Desiderio Delgado Álvarez enemy. One has a story asset version on its other side, and one has a standard encounter card back."
 msgstr "Найдите оба экземпляра врага «Дезидерио Дельгадо Альварес». У одного из них на другой стороне сюжетный актив, у другого — обычная рубашка карты контакта."
@@ -199,19 +199,19 @@ msgid "the cell didn’t discover the truth in Havana."
 msgstr "Ячейка не узнала правду в Гаване."
 
 msgid "Gather each hollow that was removed from the game throughout this scenario. Each investigator finds their hollow with the highest experience cost and exiles it."
-msgstr "Соберите все утраты, удалённые из игры в ходе этого сценария. Каждый сыщик находит принадлежащую ему утрату с наивысшей ценой в опыт и изгоняет её."
+msgstr "Соберите все утраты, удалённые из игры в ходе этого сценария. Каждый сыщик находит принадлежащую ему утрату с наивысшей ценой в опыт и изгоняет её."
 
 msgid "If your deck is uploaded to ArkhamDB, you will need to handle any exiling manually (remove the card and adjust experience to cover the free replacement cost if needed). Other decks will get an opportunity to record exiled cards later when decks are saved."
 msgstr "Если ваша колода загружена на ArkhamDB, вам нужно изгнать эту карту самостоятельно (удалить карту и добавить себе 1 опыт, чтобы добавить карту нулевого уровня). В противном случае вы сможете указать изгнанные карты позже, когда ваша колода будет сохранена."
 
 msgid "In your Campaign Log, record <i>erased from existence:</i> and next to this, record the names of each unique card exiled in this way. For the rest of the campaign, players cannot include any copies of those cards <i>(by title)</i> in their decks (immediately remove any copies from each investigator's deck)."
-msgstr "Запишите в журнал кампании <i>«стёрты из существования:»</i> и перечислите все уникальные карты, изгнанные таким образом. До конца кампании игроки не могут включать в свои колоды экземпляры этих карт (с тем же названием). Немедленно удалите другие их экземпляры из колоды каждого сыщика."
+msgstr "Запишите в журнал кампании <i>«стёрты из существования:»</i> и перечислите все уникальные карты, изгнанные таким образом. До конца кампании игроки не могут включать в свои колоды экземпляры этих карт (с тем же названием). Немедленно удалите другие их экземпляры из колоды каждого сыщика."
 
 msgid "Erased from existence"
-msgstr "Стёрты из существования"
+msgstr "Стёрты из существования"
 
 msgid "erased from existence: #name#"
-msgstr "стёрты из существования: #name#"
+msgstr "стёрты из существования: #name#"
 
 msgid ""
 "Deal or not, you can’t stay in Havana any longer. Your escape from the city is a blur of gunfire and fractured space, of pounding rain and roiling clouds, of imposters in familiar skin and eyes on every street corner. Eventually, somehow, you make it off the streets, commandeering a boat moored in Havana Harbor and setting off at once.\n"

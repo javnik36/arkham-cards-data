@@ -871,7 +871,7 @@ msgid "<i>I want to be Hollowed</i>"
 msgstr "<i>Хочу ощутить боль утраты.</i>"
 
 msgid "New Cardtype: Keys"
-msgstr "Новый тип карт: ключи"
+msgstr "Новый тип карт: ключи"
 
 msgid "<i>The Scarlet Keys</i> campaign features a new cardtype: keys. Keys are powerful artifacts that may be “shifted” to either aid or hinder investigators, depending on whom they are attached to and whether their [[Stable]] or [[Unstable]] side is faceup."
 msgstr "В кампании <i>«Алые ключи»</i> встречается новый тип карт: ключи. Ключи представляют собой мощные артефакты, которые можно «разряжать», переводя их из состояния в состояние, чтобы помогать или мешать сыщикам, в зависимости от того, под чьим контролем находится ключ и какая сторона ([[устойчивая]] или [[неустойчивая]]) активна в данный момент."
@@ -932,7 +932,7 @@ msgid "<i>An enemy's mini-card marks the location of an enemy in the shadows.</i
 msgstr "<i>Мини-карта врага обозначает местонахождение врага в тени</i>"
 
 msgid "<i>A decoy marks the location of nothing of consequence—a harmless bystander, or perhaps just a trick of the light.</i>"
-msgstr "<i>Ложная цель — это что-то незначительное: безобидный прохожий или, возможно, игра света</i>"
+msgstr "<i>Ложная цель — это что-то незначительное: безобидный прохожий или, возможно, игра света</i>"
 
 msgid ""
 "When an investigator draws an enemy with the concealed X keyword (or is instructed to resolve an enemy’s concealed keyword), they spawn that enemy into a game area above the agenda deck, not at any location. This area is called “the shadows,” and represents enemies the investigators know exist somewhere on the map, but are unsure where. Then, that investigator takes the set-aside concealed mini-card that matches that enemy, along with X decoys (where X is defined by that enemy’s concealed X value), shuffles them facedown, and puts them into play distributed as evenly as possible among each location in play, starting with the locations nearest to them. Then, at each of those locations that already had 1 or more concealed mini-cards, they shuffle each of them facedown as well.\n"
