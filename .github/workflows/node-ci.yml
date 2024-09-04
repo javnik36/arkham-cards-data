@@ -7,7 +7,7 @@ on:
   push:
     branches: [work]
   pull_request:
-    branches: [master]
+    branches: [work]
 
 jobs:
   ci:
@@ -48,6 +48,9 @@ jobs:
 
       - name: Validate po files
         run: python scripts/htmlcheck.py i18n
+
+      - name: Validate po and JSON files for hidden unicode
+        run: python scripts/sneakyunicode.py
 
       - name: Build JSON files
         run: yarn build
