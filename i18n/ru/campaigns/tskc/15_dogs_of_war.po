@@ -74,7 +74,7 @@ msgid "The Bourse"
 msgstr "Фондовая биржа"
 
 msgid "Qaitbay Citadel"
-msgstr "Крепость Кайт-Бей"
+msgstr "Крепость Кай̆т-Бей"
 
 msgid "Catacombs of Kom El Shoqafa"
 msgstr "Катакомбы Ком эль-Шукафа"

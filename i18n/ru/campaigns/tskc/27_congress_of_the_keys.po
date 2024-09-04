@@ -611,13 +611,13 @@ msgid "Find each [[Coterie]] enemy from the <i>Red Coterie</i> encounter set who
 msgstr "Найдите в наборе контактов <i>«Красная Клика»</i> врага «Человек в красных перчатках» и каждого врага с чертой Клика, который проголосовал «за» и отложите каждого из тех врагов в сторону, вне игры."
 
 msgid "Find each [[Coterie]] enemy from the <i>Red Coterie</i> encounter set who was eerily silent."
-msgstr "Найдите каждого зловеще промолчавшего врага с чертой [[Клика]] из набора контактов <i>«Красная Клика»</i>."
+msgstr "Найдите каждого зловеще промолчавшего врага с чертой [[Клика]] из набора контактов <i>«Красная Клика»</i>."
 
 msgid "Build the act deck using only Act 1a—”Secrets and Lies (v. III).” Remove each other version of Act 1a from the game."
 msgstr "Собирая колоду сцен, в качестве сцены 1a используйте «Тайны и ложь (вариант III)». Удалите из игры все остальные варианты сцены 1a."
 
 msgid "Find the [[Conspirator]] story asset version of The Red-Gloved Man, along with each other member of the Coterie who was not gathered during the above step. Put each of them into play under any investigator’s control. <i>(Note: These story assets are scattered across various encounter sets. Some of them are on the reverse sides of enemy cards.)</i> Gather the following cards:"
-msgstr "Найди­те сюжетные активы с чертой [[заговорщик]] для «Человека в красных перчатках» и остальных членов Клики, которые не были собраны в предыдущем шаге. Введите каждого из них в игру под контроль лю­бого сыщика. (Обратите внимание: эти сюжетные активы входят в разные наборы контактов. Некоторые из них могут быть на другой стороне карты врага.)"
+msgstr "Найди­те сюжетные активы с чертой [[заговорщик]] для «Человека в красных перчатках» и остальных членов Клики, которые не были собраны в предыдущем шаге. Введите каждого из них в игру под контроль лю­бого сыщика. (Обратите внимание: эти сюжетные активы входят в разные наборы контактов. Некоторые из них могут быть на другой стороне карты врага.)"
 
 msgid "For the remainder of this scenario, ignore the unique symbol on both versions of The Red-Gloved Man. <i>(If The Red-Gloved Man is the bearer of any keys, attach them only to his enemy version.)</i>"
 msgstr "До конца сценария игнорируйте символ уникальности на обоих экземплярах «Человека в красных перчатках». (Если «Человек в красных перчатках» — носитель одного или более ключей, прикрепите их к его версии врага.)"

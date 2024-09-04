@@ -73,7 +73,7 @@ msgid "<i>Agent Quinn has your back.</i>"
 msgstr "<i>Агент Куинн прикрывает вас.</i>"
 
 msgid "<i>The cell is delivering intel</i> is crossed off."
-msgstr "Запись <i>ячейка доставляет разведданные Организации</i> вычеркнута."
+msgstr "Запись <i>ячейка доставляет разведданные Организации</i> вычеркнута."
 
 msgid "For each of the following that is recorded in your Campaign Log, mark 1 tally next to <i>Cell Deception</i>."
 msgstr "За каждую из следующих записей в журнале поставьте 1 отметку после <i>лжи ячейки</i>."
