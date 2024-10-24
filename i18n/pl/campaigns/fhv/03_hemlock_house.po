@@ -208,159 +208,163 @@ msgid ""
 "“If this was my family’s legacy, I’d change my name. Someone needs to tear this place down,” Judith retorts.\n"
 "“I am not tearing this house down!” William shouts. “That is absolutely unconscionable!” The two continue arguing, getting more and more heated, until you realize this argument won’t resolve itself on its own. You step in, voicing your thoughts..."
 msgstr ""
+"„Słuchaj, William, to miejsce to nora. Wszędzie leżą śmieci. Dom jest brudny, zaniedbany, w jego ścianach z pewnością nie mieszka po prostu stado szczurów” – wyjaśnia Judith.\n"
+"William spogląda na nią spode łba. „Ta «nora» to dom mojego dzieciństwa. Trwałe dziedzictwo mojej rodziny”.\n"
+"„Gdyby to było dziedzictwo mojej rodziny, zmieniłabym nazwisko. Ktoś musi zburzyć to miejsce” – odpowiada Judith.\n"
+"„Nie zburzę tego domu!” – krzyczy William. – „To absolutnie nie do pomyślenia!” Z każdą chwilą kłócą się coraz bardziej i zdajesz sobie sprawę, że ta sytuacja sama się nie rozwiąże. Włączasz się do rozmowy i mówisz, co myślisz..."
 
 msgid "The investigator resolving this codex must decide (choose one):"
-msgstr ""
+msgstr "Badacz rozpatrujący ten wpis kodeksu musi zdecydować (wybiera jedno):"
 
 msgid "<i>“Judith is right. There’s nothing here to salvage.”</i>"
-msgstr ""
+msgstr "<i> „Judith ma rację. Nie ma tu nic do uratowania”.</i>"
 
 msgid "<i>“It is William’s home. We should respect his wishes.”</i>"
-msgstr ""
+msgstr "<i>„To dom Williama. Powinniśmy uszanować jego zdanie”.</i>"
 
 msgid "William’s gaze snaps to you, eyes pleading. Maybe he’s finally realized the truth. Perhaps he doesn’t care. “Alright, then,” he almost whispers. “Do as you will. The legacy of the Hemlocks is in tatters, and nobody seems to care. Why should you?” He departs, head hung low."
-msgstr ""
+msgstr "William kieruje na ciebie błagalne spojrzenie. Może w końcu zrozumiał prawdę. A może go to nie obchodzi. „W porządku” – niemal szepcze. – „Róbcie, co chcecie. Dziedzictwo Hemlocków jest w strzępach i nikogo to nie obchodzi. Więc czemu miałoby obchodzić ciebie?” Odchodzi ze spuszczoną głową."
 
 msgid "Remove William Hemlock from the game. Each investigator may draw 1 card. Increase Judith Park’s Relationship Level. Each investigator earns 1 bonus experience."
-msgstr ""
+msgstr "Usuń Williama Hemlocka z gry. Każdy badacz może dobrać 1 kartę. Zwiększ stopień zażyłości z Judith Park. Każdy badacz zdobywa 1 dodatkowy punkt doświadczenia."
 
 msgid "Judith glares at you. “Really? You too?” She rubs her eyes and swears under her breath. “Fine. Hold the whole festival here for all I care. But don’t come asking me for help when the place falls down. Or worse.” She gathers her things and makes for the door."
-msgstr ""
+msgstr "Judith wbija w ciebie wzrok. „Poważnie? Ty też?” Przeciera oczy i przeklina pod nosem. „W porządku. Jak dla mnie, możesz tu nawet zorganizować cały festiwal. Ale nie proś mnie o pomoc, kiedy to miejsce się zawali. Albo stanie się coś gorszego”. Zbiera swoje rzeczy i idzie do drzwi."
 
 msgid "Remove Judith Park from the game. Each investigator may draw 1 card. Increase William Hemlock’s Relationship Level. Each investigator earns 1 bonus experience."
-msgstr ""
+msgstr "Usuń Judith Park z gry. Każdy badacz może dobrać 1 kartę. Zwiększ stopień zażyłości z Williamem Hemlockiem. Każdy badacz zdobywa 1 dodatkowy punkt doświadczenia."
 
 msgid "<b>Because it is Day 2</b>:"
-msgstr ""
+msgstr "<b>Ponieważ trwa Dzień 2</b>:"
 
 msgid "<b>If it is Day 1 and an investigator controls the Little Sylvie story asset:</b>"
-msgstr ""
+msgstr "<b>Jeśli trwa Dzień 1 i dowolny badacz kontroluje atut fabularny Mała Sylvie:</b>"
 
 msgid "“Wait! That doll—there she is!” William reaches for the doll, tears welling in his eyes. He stares into the doll’s dead eyes, his smile gentle, nostalgic. “My mother always loved this one. People said it looked like her.” You ask William what he intends to do now that he’s recovered it. “Well, it’s just a doll, but...it’s also a symbol,” he explains. “A symbol of my heritage. Where I came from. If I can just get mother to remember... perhaps we can rebuild. Start our legacy anew.” He shakes your hand vigorously. “Thank you for finding this. I truly appreciate it.”"
-msgstr ""
+msgstr "„Czekaj! Ta lalka – znalazła się!” – William sięga po lalkę ze łzami w oczach. Wpatruje się w jej martwe oczy, uśmiechając się z nostalgią. „Moja matka zawsze ją uwielbiała. Ludzie mówili, że nawet wygląda jak ona”. Pytasz Williama, co zamierza z nią zrobić, skoro ją odzyskał. „Cóż, to tylko lalka, ale…to także symbol” – wyjaśnia. – „Symbol mojego dziedzictwa. Moich korzeni. Jeśli tylko sprawię, by matka sobie wszystko przypomniała... Może uda nam się to odbudować. Odzyskać dawną wielkość”. Energicznie ściska twoją dłoń. „Dziękuję, że to znalazłeś. Naprawdę to doceniam”."
 
 msgid "Take control of William Hemlock. Remember that you “found Little Sylvie.” Increase William Hemlock’s Relationship Level. Each investigator earns 1 bonus experience."
-msgstr ""
+msgstr "Przejmij kontrolę nad Williamem Hemlockiem. Zapamiętaj, że „znaleźliście Małą Sylvie”. Zwiększ stopień zażyłości z Williamem Hemlockiem. Każdy badacz zdobywa 1 dodatkowy punkt doświadczenia."
 
 msgid "You ask William if there’s anything from his old home you should be watching out for. “This house is filled with old family trinkets and valuables. There’s one in particular I’d love to find, an old doll.” You had expected perhaps a valuable piece of jewelry or an heirloom, not a doll. William seems to catch on quickly. “I always liked playing with dolls. But my mother loved them even more.” He sighs wistfully. “I remember she had a special doll, one she always kept nearby. I wonder...if I show it to her, will she remember? Will she become her old self again...?”"
-msgstr ""
+msgstr "Pytasz Williama, czy w tym starym domu jest coś, na co powinieneś uważać. „Dom jest pełen starych rodzinnych drobiazgów i kosztowności. Jest jedna rzecz, którą szczególnie chciałbym odnaleźć: stara lalka”. Spodziewałeś się raczej, że wspomni o drogiej biżuterii lub pamiątkach, a nie o lalce. William zauważa twoje zdziwienie. „Zawsze lubiłem się bawić lalkami. Ale moja matka kochała je jeszcze bardziej” – wzdycha tęsknie. – „Pamiętam, że miała pewną specjalną lalkę, którą zawsze trzymała blisko siebie. Zastanawiam się…czy jeśli ją jej pokażę, przypomni sobie wszystko? Znów stanie się sobą...?”"
 
 msgid "Each investigator gains 1 clue <i>(from the token pool)</i>."
-msgstr ""
+msgstr "Każdy badacz zyskuje 1 żeton wskazówki <i>(z puli żetonów)</i>."
 
 msgid "For the rest of the scenario, the Little Sylvie story asset gains “[action]: Take control of Little Sylvie.” The investigator who controls Little Sylvie may trigger this codex again."
-msgstr ""
+msgstr "Do końca scenariusza atut fabularny Mała Sylvie zyskuje: „[action]: Przejmij kontrolę nad Małą Sylvie”. Badacz, który kontroluje Małą Sylvie, może ponownie aktywować ten wpis kodeksu."
 
 msgid "Are both William Hemlock and Judith Park at the same location?"
-msgstr ""
+msgstr "Czy William Hemlock oraz Judith Park znajdują się w tej samej lokalizacji?"
 
 msgid "William paces back and forth, wincing at every creak of the old house. You ask him if everything is ok, eliciting a deep sigh from the melancholy heir. “Oh, yes, everything is jake. Judith has run off and left me here alone, I can’t find my mother’s doll anywhere, and my childhood home is crumbling before my very eyes,” he says bitterly. “Help me find Judith, won’t you? That bearcat is supposed to be protecting me and helping me clean this place up.” He follows you close behind, eyes darting from shadow to shadow as the house growls angrily."
-msgstr ""
+msgstr "William chodzi tam i z powrotem, krzywiąc się przy każdym skrzypnięciu starego domu. Pytasz go, czy wszystko w porządku, co wywołuje głębokie westchnienie melancholijnego spadkobiercy. „Och, tak, lepiej być nie mogło. Judith uciekła i zostawiła mnie tu samego, nigdzie nie mogę znaleźć lalki mojej matki, a mój dom z dzieciństwa rozpada się na moich oczach” – mówi z goryczą. – „Pomożesz mi znaleźć Judith? Ta lwica ma mnie ochronić i pomóc mi posprzątać to miejsce”. Podąża za tobą, miotając nieustannie spojrzeniem z kąta w kąt, gdy dom wyje wściekle."
 
 msgid "Take control of William Hemlock. You may trigger this codex again if both William Hemlock and Judith Park are at the same location."
-msgstr ""
+msgstr "Przejmij kontrolę nad Williamem Hemlockiem. Możesz aktywować ten kodeks ponownie, jeśli William Hemlock oraz Judith Park znajdują się w tej samej lokalizacji."
 
 msgid "“Finally,” William says as you enter the room where Judith stands, arms crossed. “Where have you been? I hired you because I needed your help, not to stomp around my childhood home brooding.” The two square off, tension thick in the air..."
-msgstr ""
+msgstr "„Nareszcie” – mówi William, gdy wchodzisz do pokoju, w którym stoi Judith ze skrzyżowanymi ramionami. – „Gdzie się podziewałaś? Zatrudniłem cię, ponieważ potrzebuję twojej pomocy, a nie po to, by łazić po moim domu z dzieciństwa i wspominać”. William i Judith mierzą się wzrokiem, a atmosfera się zagęszcza..."
 
 msgid "Proceed to <b>Codex Σ: The Argument</b>"
-msgstr ""
+msgstr "Przejdź do <b>Kodeksu Σ: Kłótnia</b>"
 
 msgid "<b>If “you are helping Gideon”:</b>"
-msgstr ""
+msgstr "<b>Jeśli „pomagacie Gideonowi”:</b>"
 
 msgid "You pull an old, yellowed map from a book and hold it up to Gideon. “Yes!” He exclaims, taking it from your hands and looking it over. “This is exactly what I was looking for. Thankee kindly!”"
-msgstr ""
+msgstr "Wyciągasz z książki starą, pożółkłą mapę i podajesz ją Gideonowi. „Tak!” – wykrzykuje, biorąc ją z twoich rąk i oglądając. „Dokładnie tego szukałem. Po stokroć dzięki!”"
 
 msgid "Increase Gideon Mizrah’s Relationship Level. Each investigator earns 1 bonus experience."
-msgstr ""
+msgstr "Zwiększ stopień zażyłości z Gideonem Mizrahem. Każdy badacz zdobywa 1 dodatkowy punkt doświadczenia."
 
 msgid "Gideon barely looks up from a musty book as you approach. “I don’t suppose ye’ve ever heard the story of the Delilah?” You tell him no, but you think you’re about to. He laughs. “The Delilah was a fishing vessel that mapped this island years ago.” He grabs another book as he rambles on about not only the Delilah, but also three other tangential stories. At length, you glean that the old man is looking for a map somewhere in the parlor."
-msgstr ""
+msgstr "Gideon ledwo podnosi wzrok znad zatęchłej książki, gdy się zbliżasz. „Przypuszczam, że nigdy nie słyszałeś historii Delilah?” Mówisz mu, że nie, ale podejrzewasz, że zaraz to się zmieni. Gideon śmieje się. „Delilah była statkiem rybackim, którego załoga wiele lat temu sporządziła mapę tej wyspy”. Chwyta kolejną książkę, przeplatając historię Delilah trzema innymi niezbyt istotnymi opowiastkami. W końcu dowiadujesz się, że staruszek szuka gdzieś w salonie mapy."
 
 msgid "You may cancel the next predation that would take place. Remember “you are helping Gideon.” An investigator may trigger this codex again."
-msgstr ""
+msgstr "Możesz anulować kolejny test drapieżnictwa, który miałby zostać wykonany. Zapamiętaj, że „pomagacie Gideonowi”. Dowolny badacz może ponownie aktywować ten wpis kodeksu."
 
 msgid "“Rats. ‘Rats,’ he said!” Judith scoffs. “Rats, my ass...” she trails off into grumbles, then faces you with a stern expression. “This place is a cesspool. There’s something in the walls that I swear is following me.” Any fear within her seems to have settled into anger. “It’s no wonder he didn’t want to come back with me today. There’s no ‘legacy’ here. Just a bunch of ugly furniture, and whatever creature has taken up residence.” You ask what she thinks should be done. “It’s too dangerous to be left alone as it is.” She may be right—it would surely upset William, but left as is, this house is a danger to him and the rest of Hemlock Isle."
-msgstr ""
+msgstr "„Szczury. Powiedział, że to szczury!” – prycha Judith. – „Dobre sobie...”. Narzeka przez chwilę, po czym staje przed tobą z surowym wyrazem twarzy. – „To miejsce to istne szambo. Przysięgam, że w tych ścianach coś jest i mnie śledzi!” Wydaje się, że cały jej strach zamienił się już w gniew. – „Nic dziwnego, że nie chciał dziś ze mną wrócić. Tu nie ma żadnego «dziedzictwa» – jedynie zbieranina brzydkich mebli i jakieś stworzenie, które opanowało posiadłość”. Pytasz, co według niej należy zrobić. „To zbyt niebezpieczne, żeby po prostu to tak zostawić”. Może mieć rację – to z pewnością zdenerwuje Williama, ale bez szybkiej interwencji ten dom stanowić będzie zagrożenie zarówno dla niego, jak i reszty wyspy."
 
 msgid "Take control of Judith Park. Remember that “Judith is remodeling.”"
-msgstr ""
+msgstr "Przejmij kontrolę nad Judith Park. Zapamiętaj, że „Judith wzięła sprawy w swoje ręce”."
 
 msgid "“There you are,” Judith struts to where William stands daydreaming. He snaps out of his reverie as she approaches, finger pointed at his chest. “You said this place had a rat problem, not...not this,” she says, gesturing vaguely. The two square off, tension thick in the air..."
-msgstr ""
+msgstr "„Tu jesteś!” – Judith zmierza do miejsca, gdzie stoi zamyślony William. Zdaje się jej nie słyszeć. Otrząsa się dopiero, gdy kobieta podchodzi bliżej i stuka palcem w jego pierś. „Mówiłeś, że to miejsce ma problem ze szczurami, a nie... nie z tym” – mówi, gestykulując niejasno. William i Judith mierzą się wzrokiem, a atmosfera się zagęszcza..."
 
 msgid "Judith rolls her eyes as you ask her what she’s doing here. “William was here yesterday, but he got creeped out, so he asked me to come with him today to babysit him. Then he ran upstairs to ‘ponder his legacy’ and ‘ruminate upon his forebears’ or whatever nonsense.” She shakes her head. “Look, between you and me, this place is a wreck. Let’s find William, I’ll talk to him, and leave this place to rot. You with me?”"
-msgstr ""
+msgstr "Judith przewraca oczami, gdy pytasz ją, co tu robi. „William był tu wczoraj, ale się przestraszył, więc poprosił mnie, żebym dziś z nim pojechała, żeby go niańczyć. Potem pobiegł na górę, aby «rozważać nad swoim dziedzictwem» i «wspominać swych przodków», czy coś równie bezsensownego”. Kręci głową. „Słuchaj, mówiąc między nami, to miejsce to ruina. Znajdźmy Williama, porozmawiam z nim i zostawmy to miejsce na pastwę losu. Pasuje?”"
 
 msgid "Take control of Judith Park. You may trigger this codex again if both William Hemlock and Judith Park are at the same location."
-msgstr ""
+msgstr "Przejmij kontrolę nad Judith Park. Możesz aktywować ten kodeks ponownie, jeśli William Hemlock oraz Judith Park znajdują się w tej samej lokalizacji."
 
 msgid "“No no no no no!” You hear Theo’s scream long before you see the young man running down the hallway. He barrels into you, nearly knocking you over. “Woah. I thought you were—” he looks over his shoulder. The hallway is dead silent. “You look like you might need some protection. Well, don’t worry. I can, uh. Protect you,” he puts on a fake swagger as he helps you to your feet."
-msgstr ""
+msgstr "„Nie, nie, nie, nie!” – słyszysz krzyk Theo na długo przed tym, jak widzisz go biegnącego korytarzem. Wpada w ciebie, prawie cię przewracając. „A niech to. Myślałem, że...” – Zerka przez ramię. W korytarzu panuje cisza. „Wyglądasz, jakbyś potrzebował ochrony. Cóż, nie martw się. Mogę, no wiesz. Obronić cię”. Pomaga ci wstać, udając odwagę."
 
 msgid "Take control of Theo Peters."
-msgstr ""
+msgstr "Przejmij kontrolę nad Theo Petersem."
 
 msgid "Remove 1 [elder_thing] token from the predation bag. Return any remaining [elder_thing] tokens in the predation bag to the chaos bag for the remainder of the campaign."
-msgstr ""
+msgstr "Usuń z worka drapieżnictwa 1 żeton [elder_thing]. Odłóż pozostałe żetony [elder_thing] z worka drapieżnictwa do worka chaosu (pozostają tam do końca kampanii)."
 
 msgid "If the investigators “found Little Sylvie”:"
-msgstr ""
+msgstr "Jeśli „znaleźliście Małą Sylvie”:"
 
 msgid "An investigator may add the Little Sylvie story asset to their deck. It does not count toward that investigator’s deck size."
-msgstr ""
+msgstr "Dowolny badacz może dodać atut fabularny Mała Sylvie do swojej talii. Nie wlicza się ona do limitu kart w talii badacza."
 
 msgid "Check the victory display and the number of seals in play when the scenario ended:"
-msgstr ""
+msgstr "Sprawdź pulę zwycięstwa i liczbę pieczęci w grze w momencie zakończenia scenariusza:"
 
 msgid "How many seals were in play?"
-msgstr ""
+msgstr "Ile pieczęci było w grze?"
 
 msgid "Seals:"
-msgstr ""
+msgstr "Pieczęci:"
 
 msgid "How many enemy-locations are in the victory display?"
-msgstr ""
+msgstr "Ile wrogów-lokalizacji jest w puli zwycięstwa?"
 
 msgid "Enemy-Locations in Victory Display:"
-msgstr ""
+msgstr "Wrogowie-lokalizacje jest w puli zwycięstwa:"
 
 msgid "If there are 8 or more seals in play:"
-msgstr ""
+msgstr "Jeśli w grze jest 8 lub więcej pieczęci:"
 
 msgid "If there are 10 or more seals in play:"
-msgstr ""
+msgstr "Jeśli w grze jest 10 lub więcej pieczęci:"
 
 msgid "Each investigator earns 1 additional experience."
-msgstr ""
+msgstr "Każdy badacz zdobywa jeszcze 1 dodatkowy punkt doświadczenia."
 
 msgid "If there are 8 or more enemy-locations in the victory display:"
-msgstr ""
+msgstr "Jeśli w puli zwycięstwa jest 8 lub więcej wrogów-lokalizacji:"
 
 msgid "If there are 10 or more enemy-locations in the victory display:"
-msgstr ""
+msgstr "Jeśli w puli zwycięstwa jest 10 lub więcej wrogów-lokalizacji:"
 
 msgid "If there are 8 or more enemy-locations in the victory display, Judith Park is under the control of an investigator, and “Judith is remodeling”:"
-msgstr ""
+msgstr "Jeśli w puli zwycięstwa jest 8 lub więcej wrogów-lokalizacji, Judith Park znajduje się pod kontrolą dowolnego badacza i „Judith wzięła sprawy w swoje ręce”:"
 
 msgid "Is Judith Park is under the control of an investigator?"
-msgstr ""
+msgstr "Czy Judith Park znajduje się pod kontrolą dowolnego badacza?"
 
 msgid "Increase Judith Park’s Relationship Level. Each investigator earns 1 bonus experience."
-msgstr ""
+msgstr "Zwiększ stopień zażyłości z Judith Park. Każdy badacz zdobywa 1 dodatkowy punkt doświadczenia."
 
 msgid "In the “Areas Surveyed” section of your Campaign Log, check off <i>Hemlock Harbor</i>."
-msgstr ""
+msgstr "W sekcji „Zbadane obszary” w Dzienniku kampanii odhacz <i>Port Hemlock</i>."
 
 msgid "Hemlock Harbor"
-msgstr ""
+msgstr "Port Hemlock"
 
 msgid "An awful clamor resounds through the house as the walls close in, threatening to collapse—to consume you like prey. Terrified, you burst througth the front door and flee."
-msgstr ""
+msgstr "W domu rozlega się okropny hałas, gdy ściany zbliżają się do siebie, grożąc zawaleniem się, aby pochłonąć was jak zdobycz. Przerażeni wybiegacie przez drzwi wejściowe i uciekacie."
 
 msgid "At long last, the horrors of Hemlock House are behind you. You can only hope the house’s “infestation” is gone."
-msgstr ""
+msgstr "Nareszcie koszmary domu Hemlocków są już za wami. Macie tylko nadzieję, że zamieszkująca go „plaga” zniknęła na dobre."
 
 msgid "“Miskatonic Survey, June 1926. Members Marquez, Musgrave, et alii. Survey of Hemlock House complete. Organism defies comprehension. Colony of octopodial and gastropodial species infested the entire house. Creature(s) appear to have evolved in the house proper. Further observation needed.”"
-msgstr ""
+msgstr "„Dziennik grupy badawczej Uniwersytetu Miskatonic, czerwiec 1926. Członkowie: Marquez, Musgrave i inni. Zbadano dom Hemlocków. Natura organizmu wymyka się zrozumieniu. Kolonia ośmionogów i brzuchonogów zaatakowała cały dom. Wydaje się, że stworzenia ewoluowały, stając się domem. Wymagana dalsza obserwacja”."
